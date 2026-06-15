@@ -2,9 +2,7 @@
 
 Portfolio-quality educational web app for learning beginner options strategies through guided selection, payoff visualization, risk-first strategy cards, and copy-ready paper-trade journal templates.
 
-Live demo: _Vercel link placeholder_
-
-Screenshot: _Add screenshot placeholder_
+Live demo: https://options-strategy-learning-lab.vercel.app/
 
 ## Purpose
 
