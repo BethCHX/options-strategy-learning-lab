@@ -128,10 +128,16 @@ export default function Home() {
             </p>
           </div>
           <div className="flex gap-3">
-            <span className="inline-flex cursor-not-allowed items-center gap-2 rounded-full border border-white/10 px-4 py-2 text-slate-500" aria-label="GitHub placeholder unavailable">
+            <a
+              className="inline-flex items-center gap-2 rounded-full border border-white/10 px-4 py-2 text-slate-200 transition hover:border-cyan-300/50"
+              href="https://github.com/BethCHX/options-strategy-learning-lab"
+              target="_blank"
+              rel="noreferrer"
+              aria-label="Open GitHub repository"
+            >
               <ExternalLink className="h-4 w-4" />
-              GitHub coming soon
-            </span>
+              GitHub
+            </a>
             <span className="cursor-not-allowed rounded-full border border-white/10 px-4 py-2 text-slate-500" aria-label="Portfolio placeholder unavailable">
               Portfolio coming soon
             </span>
